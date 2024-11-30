@@ -1,4 +1,4 @@
-![logo](https://github.com/saqlainhub/SaqlainHub/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+![logo](https://github.com/saqlainhub/saqlainhub/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Saqlain Ahmad</h1>
 <h3 align="center">A passionate full stack developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
