@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **wordpress development**
 
-- 👨‍💻 All of my projects are available at [www.saqlainhub.com](www.saqlainhub.com)
+- 👨‍💻 All of my projects are available at [www.saqlainhub.site](www.saqlainhub.site)
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **saqlainhub@gmail.com**
+- 📫 How to reach me **info.saqlainhub@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ saqlain-hub-595a61320](www.linkedin.com/in/ saqlain-hub-595a61320)
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saqlainhub1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqlainhub1097" height="30" width="40" /></a>
-<a href="https://fb.com/saqlainhub1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saqlainhub1097" height="30" width="40" /></a>
+<a href="https://fb.com/saqlain1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saqlainhub1097" height="30" width="40" /></a>
 <a href="https://instagram.com/saqlainhub1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saqlainhub1097" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/saqlainhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saqlainhub" height="30" width="40" /></a>
 </p>
